@@ -1,12 +1,12 @@
 {
   "data_producao": "2026-10-27",
-  "ultima_atualizacao": "2026-10-27 13:55:52",
-  "qtd_total": 2663,
-  "tonelada_bruta_total": 74.51
+  "ultima_atualizacao": "2026-10-27 14:05:38",
+  "qtd_total": 2779,
+  "tonelada_bruta_total": 76.43
   "qtd_dormitorio": 1551,
   "tonelada_bruta_dormitorio": 59.22
-  "qtd_sala": 807,
-  "tonelada_bruta_sala": 12.62
-  "qtd_estofado": 305,
-  "tonelada_bruta_estofado": 2.68
+  "qtd_sala": 888,
+  "tonelada_bruta_sala": 14.17
+  "qtd_estofado": 340,
+  "tonelada_bruta_estofado": 3.04
 }
