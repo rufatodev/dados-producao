@@ -1,12 +1,232 @@
 {
+  "data_producao": "2026-10-01",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 6185,
+  "tonelada_bruta_total": 141.95
+  "qtd_dormitorio": 3914,
+  "tonelada_bruta_dormitorio": 111.70
+  "qtd_sala": 1555,
+  "tonelada_bruta_sala": 22.92
+  "qtd_estofado": 716,
+  "tonelada_bruta_estofado": 7.33
+}{
+  "data_producao": "2026-10-02",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 6054,
+  "tonelada_bruta_total": 141.26
+  "qtd_dormitorio": 3347,
+  "tonelada_bruta_dormitorio": 103.56
+  "qtd_sala": 1665,
+  "tonelada_bruta_sala": 26.92
+  "qtd_estofado": 1042,
+  "tonelada_bruta_estofado": 10.78
+}{
+  "data_producao": "2026-10-05",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 5414,
+  "tonelada_bruta_total": 144.94
+  "qtd_dormitorio": 3216,
+  "tonelada_bruta_dormitorio": 112.18
+  "qtd_sala": 1360,
+  "tonelada_bruta_sala": 24.24
+  "qtd_estofado": 838,
+  "tonelada_bruta_estofado": 8.53
+}{
+  "data_producao": "2026-10-06",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 6498,
+  "tonelada_bruta_total": 139.64
+  "qtd_dormitorio": 3567,
+  "tonelada_bruta_dormitorio": 101.19
+  "qtd_sala": 2231,
+  "tonelada_bruta_sala": 31.49
+  "qtd_estofado": 700,
+  "tonelada_bruta_estofado": 6.97
+}{
+  "data_producao": "2026-10-07",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 5565,
+  "tonelada_bruta_total": 134.89
+  "qtd_dormitorio": 3323,
+  "tonelada_bruta_dormitorio": 103.69
+  "qtd_sala": 1542,
+  "tonelada_bruta_sala": 24.35
+  "qtd_estofado": 700,
+  "tonelada_bruta_estofado": 6.86
+}{
+  "data_producao": "2026-10-08",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 5874,
+  "tonelada_bruta_total": 140.93
+  "qtd_dormitorio": 3672,
+  "tonelada_bruta_dormitorio": 106.99
+  "qtd_sala": 1370,
+  "tonelada_bruta_sala": 25.77
+  "qtd_estofado": 831,
+  "tonelada_bruta_estofado": 8.16
+}{
+  "data_producao": "2026-10-09",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 5306,
+  "tonelada_bruta_total": 141.34
+  "qtd_dormitorio": 2807,
+  "tonelada_bruta_dormitorio": 105.69
+  "qtd_sala": 1976,
+  "tonelada_bruta_sala": 30.10
+  "qtd_estofado": 523,
+  "tonelada_bruta_estofado": 5.56
+}{
+  "data_producao": "2026-10-13",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 6318,
+  "tonelada_bruta_total": 131.41
+  "qtd_dormitorio": 3954,
+  "tonelada_bruta_dormitorio": 103.68
+  "qtd_sala": 1658,
+  "tonelada_bruta_sala": 20.39
+  "qtd_estofado": 706,
+  "tonelada_bruta_estofado": 7.34
+}{
+  "data_producao": "2026-10-14",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 5356,
+  "tonelada_bruta_total": 146.49
+  "qtd_dormitorio": 2528,
+  "tonelada_bruta_dormitorio": 106.07
+  "qtd_sala": 1999,
+  "tonelada_bruta_sala": 31.94
+  "qtd_estofado": 829,
+  "tonelada_bruta_estofado": 8.49
+}{
+  "data_producao": "2026-10-15",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 6163,
+  "tonelada_bruta_total": 142.85
+  "qtd_dormitorio": 4018,
+  "tonelada_bruta_dormitorio": 110.42
+  "qtd_sala": 1518,
+  "tonelada_bruta_sala": 26.05
+  "qtd_estofado": 627,
+  "tonelada_bruta_estofado": 6.39
+}{
+  "data_producao": "2026-10-16",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 6343,
+  "tonelada_bruta_total": 148.87
+  "qtd_dormitorio": 3732,
+  "tonelada_bruta_dormitorio": 113.37
+  "qtd_sala": 1788,
+  "tonelada_bruta_sala": 26.99
+  "qtd_estofado": 823,
+  "tonelada_bruta_estofado": 8.51
+}{
+  "data_producao": "2026-10-17",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 380,
+  "tonelada_bruta_total": 0.79
+  "qtd_dormitorio": 380,
+  "tonelada_bruta_dormitorio": 0.79
+  "qtd_sala": 0,
+  "tonelada_bruta_sala": 0.00
+  "qtd_estofado": 0,
+  "tonelada_bruta_estofado": 0.00
+}{
+  "data_producao": "2026-10-19",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 5343,
+  "tonelada_bruta_total": 132.73
+  "qtd_dormitorio": 2941,
+  "tonelada_bruta_dormitorio": 99.85
+  "qtd_sala": 1864,
+  "tonelada_bruta_sala": 27.41
+  "qtd_estofado": 538,
+  "tonelada_bruta_estofado": 5.47
+}{
+  "data_producao": "2026-10-20",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 6230,
+  "tonelada_bruta_total": 142.28
+  "qtd_dormitorio": 4140,
+  "tonelada_bruta_dormitorio": 110.99
+  "qtd_sala": 1318,
+  "tonelada_bruta_sala": 23.61
+  "qtd_estofado": 771,
+  "tonelada_bruta_estofado": 7.67
+}{
+  "data_producao": "2026-10-21",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 6857,
+  "tonelada_bruta_total": 139.20
+  "qtd_dormitorio": 3543,
+  "tonelada_bruta_dormitorio": 92.13
+  "qtd_sala": 2387,
+  "tonelada_bruta_sala": 37.86
+  "qtd_estofado": 927,
+  "tonelada_bruta_estofado": 9.20
+}{
+  "data_producao": "2026-10-22",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 7047,
+  "tonelada_bruta_total": 129.14
+  "qtd_dormitorio": 4040,
+  "tonelada_bruta_dormitorio": 86.74
+  "qtd_sala": 2224,
+  "tonelada_bruta_sala": 35.36
+  "qtd_estofado": 702,
+  "tonelada_bruta_estofado": 6.89
+}{
+  "data_producao": "2026-10-23",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 5481,
+  "tonelada_bruta_total": 131.16
+  "qtd_dormitorio": 3211,
+  "tonelada_bruta_dormitorio": 95.23
+  "qtd_sala": 1597,
+  "tonelada_bruta_sala": 29.11
+  "qtd_estofado": 673,
+  "tonelada_bruta_estofado": 6.83
+}{
+  "data_producao": "2026-10-26",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 5614,
+  "tonelada_bruta_total": 120.10
+  "qtd_dormitorio": 3478,
+  "tonelada_bruta_dormitorio": 95.93
+  "qtd_sala": 1294,
+  "tonelada_bruta_sala": 16.07
+  "qtd_estofado": 842,
+  "tonelada_bruta_estofado": 8.10
+}{
+  "data_producao": "2026-10-27",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 5613,
+  "tonelada_bruta_total": 136.57
+  "qtd_dormitorio": 3179,
+  "tonelada_bruta_dormitorio": 98.77
+  "qtd_sala": 1732,
+  "tonelada_bruta_sala": 30.97
+  "qtd_estofado": 702,
+  "tonelada_bruta_estofado": 6.83
+}{
+  "data_producao": "2026-10-28",
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 5925,
+  "tonelada_bruta_total": 140.07
+  "qtd_dormitorio": 3055,
+  "tonelada_bruta_dormitorio": 101.21
+  "qtd_sala": 1995,
+  "tonelada_bruta_sala": 30.16
+  "qtd_estofado": 875,
+  "tonelada_bruta_estofado": 8.71
+}{
   "data_producao": "2026-10-29",
-  "ultima_atualizacao": "2026-10-29 16:25:13",
-  "qtd_total": 4289,
-  "tonelada_bruta_total": 103.21
-  "qtd_dormitorio": 3024,
-  "tonelada_bruta_dormitorio": 89.09
-  "qtd_sala": 627,
-  "tonelada_bruta_sala": 7.68
-  "qtd_estofado": 638,
-  "tonelada_bruta_estofado": 6.44
+  "ultima_atualizacao": "2026-10-29 16:36:50",
+  "qtd_total": 5765,
+  "tonelada_bruta_total": 124.41
+  "qtd_dormitorio": 3151,
+  "tonelada_bruta_dormitorio": 94.00
+  "qtd_sala": 1842,
+  "tonelada_bruta_sala": 22.57
+  "qtd_estofado": 772,
+  "tonelada_bruta_estofado": 7.83
 }
