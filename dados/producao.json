@@ -1,6 +1,6 @@
 {
   "data_producao": "2026-11-03",
-  "ultima_atualizacao": "2026-11-04 13:35:21",
+  "ultima_atualizacao": "2026-11-04 13:45:30",
   "qtd_total": 5551,
   "tonelada_bruta_total": 130.93
   "qtd_dormitorio": 2943,
@@ -12,13 +12,13 @@
 }
 {
   "data_producao": "2026-11-04",
-  "ultima_atualizacao": "2026-11-04 13:35:21",
-  "qtd_total": 3024,
-  "tonelada_bruta_total": 81.30
+  "ultima_atualizacao": "2026-11-04 13:45:30",
+  "qtd_total": 3110,
+  "tonelada_bruta_total": 82.83
   "qtd_dormitorio": 2135,
   "tonelada_bruta_dormitorio": 70.32
-  "qtd_sala": 541,
-  "tonelada_bruta_sala": 7.21
+  "qtd_sala": 627,
+  "tonelada_bruta_sala": 8.73
   "qtd_estofado": 348,
   "tonelada_bruta_estofado": 3.78
 }
