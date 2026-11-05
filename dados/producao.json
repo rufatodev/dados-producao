@@ -1,6 +1,6 @@
 {
   "data_producao": "2026-11-03",
-  "ultima_atualizacao": "2026-11-05 07:35:27",
+  "ultima_atualizacao": "2026-11-05 07:45:28",
   "qtd_total": 5551,
   "tonelada_bruta_total": 130.93
   "qtd_dormitorio": 2943,
@@ -12,7 +12,7 @@
 }
 {
   "data_producao": "2026-11-04",
-  "ultima_atualizacao": "2026-11-05 07:35:27",
+  "ultima_atualizacao": "2026-11-05 07:45:28",
   "qtd_total": 5911,
   "tonelada_bruta_total": 143.62
   "qtd_dormitorio": 3721,
@@ -24,13 +24,13 @@
 }
 {
   "data_producao": "2026-11-05",
-  "ultima_atualizacao": "2026-11-05 07:35:27",
-  "qtd_total": 100,
-  "tonelada_bruta_total": 0.63
+  "ultima_atualizacao": "2026-11-05 07:45:28",
+  "qtd_total": 102,
+  "tonelada_bruta_total": 0.68
   "qtd_dormitorio": 0,
   "tonelada_bruta_dormitorio": 0.00
-  "qtd_sala": 100,
-  "tonelada_bruta_sala": 0.63
+  "qtd_sala": 102,
+  "tonelada_bruta_sala": 0.68
   "qtd_estofado": 0,
   "tonelada_bruta_estofado": 0.00
 }
